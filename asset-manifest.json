@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.891dbb5e.css",
-    "main.js": "/static/js/main.3804b2f6.js",
+    "main.js": "/static/js/main.5cbd0b8a.js",
     "static/media/surya.jpg": "/static/media/surya.4af35145c2219c603f63.jpg",
     "static/media/ucsd-logo.png": "/static/media/ucsd-logo.8ff136e6e515751cbce0.png",
     "static/media/sg-logo.png": "/static/media/sg-logo.3c020d84f679a0a08b76.png",
@@ -9,10 +9,10 @@
     "static/media/iiitdm-logo.png": "/static/media/iiitdm-logo.adc36594ad663e4e3749.png",
     "index.html": "/index.html",
     "main.891dbb5e.css.map": "/static/css/main.891dbb5e.css.map",
-    "main.3804b2f6.js.map": "/static/js/main.3804b2f6.js.map"
+    "main.5cbd0b8a.js.map": "/static/js/main.5cbd0b8a.js.map"
   },
   "entrypoints": [
     "static/css/main.891dbb5e.css",
-    "static/js/main.3804b2f6.js"
+    "static/js/main.5cbd0b8a.js"
   ]
 }
