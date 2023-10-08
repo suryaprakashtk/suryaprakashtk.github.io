@@ -1,2 +1,1 @@
-# suryaprakashtk.github.io
-Personal Website
+# Surya Prakash T K | Personal Website
