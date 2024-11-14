@@ -9,7 +9,7 @@
     },
     {
         "name": "PyTorch",
-        "icon": "./assets/images/skills/pytorch.png"
+        "icon": "./assets/images/skills/rviz.png"
     },
     {
         "name": "CUDA",
@@ -30,6 +30,14 @@
     {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "Gazebo",
+        "icon": "./assets/images/skills/gazebo.png"
+    },
+    {
+        "name": "RViz",
+        "icon": "./assets/images/skills/rviz.png"
     },
     {
         "name": "GitHub",
