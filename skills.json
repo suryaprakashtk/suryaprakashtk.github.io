@@ -9,7 +9,7 @@
     },
     {
         "name": "PyTorch",
-        "icon": "./assets/images/skills/pytorch.png"
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
         "name": "CUDA",
