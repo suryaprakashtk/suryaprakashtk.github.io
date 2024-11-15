@@ -9,11 +9,11 @@
     },
     {
         "name": "ROS",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "./assets/images/skills/ROS.png"
     },
     {
         "name": "TensorRT",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "./assets/images/skills/TensorRT.png"
     },
     {
         "name": "CUDA",
