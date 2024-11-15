@@ -1,6 +1,6 @@
 [
     {
-        "name": "C++",
+        "name": "C++11",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
@@ -8,15 +8,23 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
+        "name": "ROS",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "TensorRT",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "CUDA",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
         "name": "PyTorch",
         "icon": "./assets/images/skills/pytorch.png"
     },
     {
-        "name": "CUDA",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "TensorRT",
+        "name": "RViz",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
@@ -28,19 +36,23 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "Git VCS",
+        "name": "PyBullet",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Gym",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
-        "name": "Gazebo",
+        "name": "Git",
         "icon": "./assets/images/skills/gazebo.png"
     },
     {
-        "name": "RViz",
+        "name": "Linux",
         "icon": "./assets/images/skills/pytorch.png"
     },
     {
-        "name": "GitHub",
+        "name": "Windows",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     }   
 ]
