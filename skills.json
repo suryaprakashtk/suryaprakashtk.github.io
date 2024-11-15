@@ -17,7 +17,7 @@
     },
     {
         "name": "CUDA",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "./assets/images/skills/CUDA.jpg"
     },
     {
         "name": "PyTorch",
@@ -45,14 +45,14 @@
     },
     {
         "name": "Git",
-        "icon": "./assets/images/skills/gazebo.png"
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "Linux",
-        "icon": "./assets/images/skills/pytorch.png"
+        "icon": "https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"
     },
     {
         "name": "Windows",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "https://img.icons8.com/?size=100&id=108792&format=png&color=000000"
     }   
 ]
