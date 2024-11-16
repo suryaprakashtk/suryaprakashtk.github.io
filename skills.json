@@ -32,16 +32,28 @@
         "icon": "https://img.icons8.com/color/48/opencv.png"
     },
     {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/96/numpy.png"
+    },
+    {
         "name": "MuJoCo",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "./assets/images/skills/mujoco.jpeg"
     },
     {
         "name": "PyBullet",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "./assets/images/skills/pybullet.png"
     },
     {
         "name": "Gym",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": "https://img.icons8.com/ios/50/chatgpt.png"
+    },
+    {
+        "name": "Solidworks",
+        "icon": "https://img.icons8.com/ios-filled/50/solidworks-app.png"
+    },
+    {
+        "name": "ANSYS",
+        "icon": "./assets/images/skills/ANSYS.jpg"
     },
     {
         "name": "Git",
