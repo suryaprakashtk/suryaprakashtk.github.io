@@ -5,7 +5,7 @@
     },
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
     },
     {
         "name": "ROS",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Git",
-        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/git.png"
     },
     {
         "name": "Linux",
@@ -53,6 +53,6 @@
     },
     {
         "name": "Windows",
-        "icon": "https://img.icons8.com/?size=100&id=108792&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/windows-10.png"
     }   
 ]
