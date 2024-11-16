@@ -33,7 +33,7 @@
     },
     {
         "name": "Numpy",
-        "icon": "https://img.icons8.com/color/96/numpy.png"
+        "icon": "https://img.icons8.com/color/48/numpy.png"
     },
     {
         "name": "MuJoCo",
@@ -45,11 +45,15 @@
     },
     {
         "name": "Gym",
-        "icon": "https://img.icons8.com/ios/50/chatgpt.png"
+        "icon": "https://img.icons8.com/fluency/48/chatgpt--v2.png"
+    },
+    {
+        "name": "AutoCAD",
+        "icon": "./assets/images/skills/AutoCAD.png"
     },
     {
         "name": "Solidworks",
-        "icon": "https://img.icons8.com/ios-filled/50/solidworks-app.png"
+        "icon": "./assets/images/skills/solidworks.png"
     },
     {
         "name": "ANSYS",
