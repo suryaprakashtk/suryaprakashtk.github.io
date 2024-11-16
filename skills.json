@@ -25,7 +25,7 @@
     },
     {
         "name": "RViz",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+        "icon": "./assets/images/skills/rviz.png"
     },
     {
         "name": "OpenCV",
