@@ -29,7 +29,7 @@
     },
     {
         "name": "OpenCV",
-        "icon": "https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/opencv.png"
     },
     {
         "name": "MuJoCo",
@@ -45,11 +45,11 @@
     },
     {
         "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
     },
     {
         "name": "Linux",
-        "icon": "https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"
+        "icon": "https://img.icons8.com/color/48/linux--v1.png"
     },
     {
         "name": "Windows",
