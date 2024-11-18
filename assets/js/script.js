@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Autonomous Driving",  "CUDA C++", "Robot Perception", "Machine Learning", "Visual SLAM", "Battery Tetsing"],
+    strings: ["Autonomous Driving",  "CUDA C++", "Robot Perception", "Machine Learning", "Visual SLAM", "Battery Testing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -107,10 +107,24 @@ function showSkills(skills) {
 function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
     let projectHTML = "";
-    projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
+    projects.slice(0, 10).filter(project => project.category == "all").forEach(project => {
+        let mediaElement;
+        // Determine the media type and construct the appropriate HTML
+        if (project.type === "video") {
+            mediaElement = `
+                <video autoplay loop muted playsinline>
+                    <source src="/assets/images/projects/${project.image}" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>`;
+        } else if (project.type === "gif") {
+            mediaElement = `<img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />`;
+        } else if (project.type === "image") {
+            mediaElement = `<img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />`;
+        }
+
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+        ${mediaElement}
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
