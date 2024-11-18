@@ -23,7 +23,7 @@
   },
   {
     "name": "Optical Flow Estimation",
-    "desc": "Implemented Deep RNN RAFT Architecture to Find Optical Flow in Crowd",
+    "desc": "Implemented Deep RNN RAFT Architecture to Find Optical Flow in Crowd Movement",
     "image": "optical_flow.gif",
     "type" : "gif",
     "category": "all",
