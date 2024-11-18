@@ -1,16 +1,5 @@
 [
   {
-    "name": "Door Key Navigation",
-    "desc": "Formulated a MDP to Solve The Problem Using Dynamic Programming",
-    "image": "Doorkey.gif",
-    "type" : "gif",
-    "category": "all",
-    "links": {
-      "view": "https://github.com/suryaprakashtk/Dynamic_Programming_For_Door_Key_Problem/blob/main/Report.pdf",
-      "code": "https://github.com/suryaprakashtk/Dynamic_Programming_For_Door_Key_Problem"
-    }
-  },
-  {
     "name": "Stochastic Optimal Control",
     "desc": "Performance Evaluation of Trajectory Tracking Algorithms for Mobile Robots",
     "image": "Optimal_control.gif",
@@ -41,6 +30,17 @@
     "links": {
       "view": "https://github.com/suryaprakashtk/Particle_Filter_SLAM/blob/main/Report.pdf",
       "code": "https://github.com/suryaprakashtk/Particle_Filter_SLAM"
+    }
+  },
+  {
+    "name": "Door Key Navigation",
+    "desc": "Formulated a MDP to Solve The Problem Using Dynamic Programming",
+    "image": "Doorkey.gif",
+    "type" : "gif",
+    "category": "all",
+    "links": {
+      "view": "https://github.com/suryaprakashtk/Dynamic_Programming_For_Door_Key_Problem/blob/main/Report.pdf",
+      "code": "https://github.com/suryaprakashtk/Dynamic_Programming_For_Door_Key_Problem"
     }
   },
   {
