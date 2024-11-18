@@ -1,7 +1,7 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Door Key Navigation",
+    "desc": "Formulated a MDP to Solve The Problem Using Dynamic Programming",
     "image": "Doorkey.gif",
     "type" : "gif",
     "category": "all",
@@ -11,8 +11,8 @@
     }
   },
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Stochastic Optimal Control",
+    "desc": "Performance Evaluation of Trajectory Tracking Algorithms for Mobile Robots",
     "image": "Optimal_control.gif",
     "type" : "gif",
     "category": "all",
@@ -22,8 +22,8 @@
     }
   },
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Optical Flow Estimation",
+    "desc": "Implemented Deep RNN RAFT Architecture to Find Optical Flow in Crowd",
     "image": "optical_flow.gif",
     "type" : "gif",
     "category": "all",
@@ -33,8 +33,8 @@
     }
   },
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Particle Filter SLAM",
+    "desc": "LiDAR and Encoder Based Particle Filter SLAM",
     "image": "Particle_SLAM_Output.jpg",
     "type" : "image",
     "category": "all",
@@ -44,8 +44,8 @@
     }
   },
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Visual Inertial SLAM",
+    "desc": "Implemented EKF on Camera and IMU to Perform SLAM on Mobile Robots",
     "image": "EKF_SLAM_Output.jpg",
     "type" : "image",
     "category": "all",
@@ -55,8 +55,8 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "Robot Motion Planning",
+    "desc": "Implemented A* and RRT algorithm and compared performance in 3D environment",
     "image": "windowRRT.png",
     "type" : "image",
     "category": "all",
