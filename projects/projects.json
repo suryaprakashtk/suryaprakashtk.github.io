@@ -1,13 +1,13 @@
 [
   {
-    "name": "Stochastic Optimal Control",
-    "desc": "Performance Evaluation of Trajectory Tracking Algorithms for Mobile Robots",
-    "image": "Optimal_control.gif",
+    "name": "Vision Based Navigation",
+    "desc": "Trained and deployed a RL policy on F1Tenth car.",
+    "image": "ERL.gif",
     "type" : "gif",
     "category": "all",
     "links": {
-      "view": "https://github.com/suryaprakashtk/Stochastic_Optimal_Control/blob/main/Report.pdf",
-      "code": "https://github.com/suryaprakashtk/Stochastic_Optimal_Control"
+      "view": "https://drive.google.com/file/d/1vu5dMV4YNEPqXUIHgdloAIA45hOQThOR/view?usp=sharing",
+      "code": "https://docs.google.com/presentation/d/19bm4aGyoIOuXxoWYXCLZuv4JqfHLg2XFaCIUlt1nbrc/edit?usp=sharing"
     }
   },
   {
@@ -17,8 +17,19 @@
     "type" : "gif",
     "category": "all",
     "links": {
-      "view": "https://github.com/suryaprakashtk/Optical_Flow_Estimate_Using_RAFT_Network/blob/main/Report.pdf",
+      "view": "https://docs.google.com/presentation/d/1udlFRa3E2hDAh4UqIAWsgJg-THCtMfIOq7ZB8hihWMk/edit?usp=sharing",
       "code": "https://github.com/suryaprakashtk/Optical_Flow_Estimate_Using_RAFT_Network"
+    }
+  },
+  {
+    "name": "Stochastic Optimal Control",
+    "desc": "Performance Evaluation of Trajectory Tracking Algorithms for Mobile Robots",
+    "image": "Optimal_control.gif",
+    "type" : "gif",
+    "category": "all",
+    "links": {
+      "view": "https://github.com/suryaprakashtk/Stochastic_Optimal_Control/blob/main/Report.pdf",
+      "code": "https://github.com/suryaprakashtk/Stochastic_Optimal_Control"
     }
   },
   {
