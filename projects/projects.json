@@ -1,7 +1,7 @@
 [
   {
-    "name": "Vision Based Navigation",
-    "desc": "Trained and deployed a RL policy on F1Tenth car.",
+    "name": "Vision Based Navigation by RL",
+    "desc": "Trained and deployed RL policy on F1Tenth car using TensorRT",
     "image": "ERL.gif",
     "type" : "gif",
     "category": "all",

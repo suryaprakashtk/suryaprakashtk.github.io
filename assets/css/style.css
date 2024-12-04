@@ -800,7 +800,7 @@ header .navbar ul li a:hover {
   width: 100%;
 }
 .experience .box-container .box img {
-  object-fit: cover;
+  object-fit: contain;
   position: relative;
   width: 100%;
   height: 100%;
