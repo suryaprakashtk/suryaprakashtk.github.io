@@ -619,6 +619,8 @@ header .navbar ul li a:hover {
     height: 25rem;
   }
   .education .box-container .box img {
+    object-fit: cover;
+    position: relative;
     width: 100%;
   }
   .education .box-container .box .content {
