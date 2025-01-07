@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Autonomous Driving",  "CUDA C++", "Robot Perception", "Machine Learning", "Visual SLAM", "Battery Testing"],
+    strings: ["Autonomous Driving",  "Robot Planning", "Robot Perception", "Machine Learning", "Visual SLAM", "Battery Testing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
